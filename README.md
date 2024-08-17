@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2016/10/giphy.gif?fit=400%2C234&quality=50&strip=all&ssl=1)](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
