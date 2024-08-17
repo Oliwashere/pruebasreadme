@@ -5,20 +5,9 @@
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Commits"/>
-</p>
 
 
-
-
-
-
-
-
-
-
-- 📫 How to reach me **oliverlopez42069@gmail.com**
+- Reach me **oliverlopez42069@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
