@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Oli</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+<h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliwashere" alt="oliwashere" /></a> </p>
