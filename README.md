@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Commits" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Repositories" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Repositories" style="display: inline-block; margin-right: 100px;" />
   <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Followers" style="display: inline-block;" />
 </p>
 
