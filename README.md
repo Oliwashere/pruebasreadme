@@ -1,4 +1,6 @@
-<p aling="center">[![MasterHead](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2016/10/giphy.gif?fit=400%2C234&quality=50&strip=all&ssl=1)]()</p>
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2016/10/giphy.gif?fit=400%2C234&quality=50&strip=all&ssl=1)" />
+</p>
 
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
