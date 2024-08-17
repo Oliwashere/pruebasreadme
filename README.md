@@ -7,8 +7,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Commits"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Repositories"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Followers"/>
 </p>
 
 
