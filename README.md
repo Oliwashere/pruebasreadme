@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits"/> </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories"/> </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits"/> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories"/> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers"/> </p>
 
 - 📫 How to reach me **oliverlopez42069@gmail.com**
 
