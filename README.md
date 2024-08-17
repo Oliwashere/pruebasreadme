@@ -4,7 +4,16 @@
 
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
-![Commits](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits) ![Repositories](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories) ![Followers](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+<div style="display: inline-block;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits" />
+</div>
+<div style="display: inline-block;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories" />
+</div>
+<div style="display: inline-block;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers" />
+</div>
+
 
 
 
