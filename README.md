@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2016/10/giphy.gif?fit=400%2C234&quality=50&strip=all&ssl=1" />
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-1-b6b58f836f.gif" />
 </p>
 
 <h1 align="center">Hi, I'm Oli</h1>
