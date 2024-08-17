@@ -6,13 +6,10 @@
 <h3 align="center">Software & Website developer</h3>
 <div style="display: inline-block; text-align: left;">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits" />
-</div>
-<div style="display: inline-block; text-align: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories" />
-</div>
-<div style="display: inline-block; text-align: right;">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers" />
 </div>
+
 
 
 
