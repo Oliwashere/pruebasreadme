@@ -9,10 +9,10 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Sin%20t%C3%ADtulo-1.png" />
 </p>
 
--  Hi, I’m Oli
+-  Hi, I’m Oli (￣ω￣)/
 -  I’m interested in becoming an indie developer
 -  I’m currently learning software and web developing
--  Old internet core enjoyer
+-  Old internet core enjoyer 	☆ ～('▽^人)
 
 <p align="center">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Sin%20t%C3%ADtulo-2.png" />
