@@ -5,7 +5,9 @@
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">Software & Website developer</h3>
 
-
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Oliwashere&title=Commits"/>
+</p>
 
 - Reach me **oliverlopez42069@gmail.com**
 
