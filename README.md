@@ -24,22 +24,22 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Sin%20t%C3%ADtulo-2.png" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
 </p>
 ==========================================
-<p align="left">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/github.gif" />
+<p align="center">
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif" />
 </p>
 - Linkedin
-<p align="left">
-  <img w="20px"src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" />
+<p align="center">
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" />
 </p>
 - Portfolio
 
 ==========================================
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
 </p>
 
