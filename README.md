@@ -28,8 +28,6 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <table align="center">
   <tr>
     <td>
