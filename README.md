@@ -56,4 +56,4 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
 </p>
 
-- Reach me **oliverlopez42069@gmail.com**
+- Reach me **oliverlopez42069@gmail.com** 	٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶
