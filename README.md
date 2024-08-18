@@ -28,14 +28,16 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
 </p>
 ==========================================
-<p align="left">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif"width="100" />
-</p>
-- Linkedin
-<p align="left">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100"/>
-</p>
-- Portfolio
+<table>
+  <tr>
+    <td><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif" width="100" /></td>
+    <td>Linkedin</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100" /></td>
+    <td>Portfolio</td>
+  </tr>
+</table>
 
 ==========================================
 
