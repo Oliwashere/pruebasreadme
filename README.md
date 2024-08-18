@@ -49,21 +49,20 @@
       <a href="https://www.tu-portfolio.com" target="_blank">Portfolio</a>
     </td>
   </tr>
-</table>
-
-<p align="center">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
-</p>
-
-<table>
   <tr>
     <td>
       <a>
-        <img src="https://static.wikia.nocookie.net/logopedia/images/a/af/Msn-messenger-7.5.png/revision/latest/scale-to-width-down/250?cb=20231120204232" width="100" />
+        <img src="https://static.wikia.nocookie.net/logopedia/images/a/af/Msn-messenger-7.5.png/revision/latest/scale-to-width-down/250?cb=20231120204232" width="100"/>
       </a>
     </td>
     <td>
       <a>oliverlopez42069@gmail.com ٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶ Reach me</a>
     </td>
   </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
+</p>
+
   
