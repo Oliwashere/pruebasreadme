@@ -61,8 +61,6 @@
   </tr>
 </table>
 
-
-
 <p align="center">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
 </p>
