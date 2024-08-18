@@ -41,12 +41,12 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.tu-portfolio.com" target="_blank">
+      <a href="https://oliwashere.neocities.org/" target="_blank">
         <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100" />
       </a>
     </td>
     <td>
-      <a href="https://www.tu-portfolio.com" target="_blank">Portfolio</a>
+      <a href="https://oliwashere.neocities.org/" target="_blank">Portfolio</a>
     </td>
   </tr>
   <tr>
