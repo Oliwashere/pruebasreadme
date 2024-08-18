@@ -10,9 +10,9 @@
 </p>
 <p align="center">
 -  Hi, I’m Oli (￣ω￣)/
--  I’m interested in becoming an indie developer
--  I’m currently learning software and web developing
--  Old internet core enjoyer 	☆ ～('▽^人)
+<br>-  I’m interested in becoming an indie developer
+<br>-  I’m currently learning software and web developing
+<br>-  Old internet core enjoyer 	☆ ～('▽^人)
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
