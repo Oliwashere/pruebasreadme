@@ -28,18 +28,19 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
 </p>
 
-<div align="left">
-  <table>
-    <tr>
-      <td><a href="https://www.linkedin.com/in/tu-perfil" target="_blank"><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif" width="100" /></a></td>
-      <td><a href="https://www.linkedin.com/in/tu-perfil" target="_blank">Linkedin</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.tu-portfolio.com" target="_blank"><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100" /></a></td>
-      <td><a href="https://www.tu-portfolio.com" target="_blank">Portfolio</a></td>
-    </tr>
-  </table>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/tu-perfil" target="_blank"><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif" width="100" /></a></td>
+    <td><a href="https://www.linkedin.com/in/tu-perfil" target="_blank">Linkedin</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tu-portfolio.com" target="_blank"><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100" /></a></td>
+    <td><a href="https://www.tu-portfolio.com" target="_blank">Portfolio</a></td>
+  </tr>
+</table>
+
 
 
 <p align="center">
