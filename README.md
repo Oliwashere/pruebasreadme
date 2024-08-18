@@ -24,5 +24,14 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Sin%20t%C3%ADtulo-2.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
+</p>
+==================================================================
+==================================================================
+
+<p align="center">
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
+</p>
 
 - Reach me **oliverlopez42069@gmail.com**
