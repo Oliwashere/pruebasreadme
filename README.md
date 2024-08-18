@@ -28,11 +28,11 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
 </p>
 ==========================================
-<p align="center">
+<p align="left">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/github.gif" />
 </p>
 - Linkedin
-<p align="center">
+<p align="left">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" />
 </p>
 - Portfolio
