@@ -29,11 +29,11 @@
 </p>
 ==========================================
 <p align="left">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif"width="200" height="200" />
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif"width="100" />
 </p>
 - Linkedin
 <p align="left">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="200" height="200"/>
+  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100"/>
 </p>
 - Portfolio
 
