@@ -2,7 +2,7 @@
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-1-b6b58f836f.gif" />
 </p>
 
-<h1 align="center">Hi, I'm Oli</h1>
+<h1 align="center">Oliver López</h1>
 <h3 align="center">Software & Website developer</h3>
 
 <p align="center">
