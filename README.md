@@ -33,9 +33,10 @@
 </p>
 - Linkedin
 <p align="left">
-  <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" />
+  <img w="20px"src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" />
 </p>
 - Portfolio
+
 ==========================================
 
 <p align="center">
