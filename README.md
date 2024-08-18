@@ -56,7 +56,7 @@
       </a>
     </td>
     <td>
-      <a>oliverlopez42069@gmail.com - Reach me</a>
+      <a>oliverlopez42069@gmail.com</a>
     </td>
   </tr>
 </table>
