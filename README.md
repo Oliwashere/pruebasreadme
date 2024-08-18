@@ -27,19 +27,30 @@
 <p align="center">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Additionalinfo.png" />
 </p>
-==========================================
+
 <table>
   <tr>
-    <td><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif" width="100" /></td>
-    <td>Linkedin</td>
+    <td>
+      <a href="https://www.linkedin.com/in/oliver-eduardo-l%C3%B3pez-p%C3%A9rez-3a05a5316/" target="_blank">
+        <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/linkedin.gif" width="100" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/oliver-eduardo-l%C3%B3pez-p%C3%A9rez-3a05a5316/" target="_blank">Linkedin</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100" /></td>
-    <td>Portfolio</td>
+    <td>
+      <a href="https://www.tu-portfolio.com" target="_blank">
+        <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/ezgif-4-6b49d34662.gif" width="100" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.tu-portfolio.com" target="_blank">Portfolio</a>
+    </td>
   </tr>
 </table>
 
-==========================================
 
 <p align="center">
   <img src="https://github.com/Oliwashere/pruebasreadme/blob/main/Bottom2.png" />
