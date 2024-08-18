@@ -30,7 +30,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/oliver-eduardo-l%C3%B3pez-p%C3%A9rez-3a05a5316/" target="_blank">
